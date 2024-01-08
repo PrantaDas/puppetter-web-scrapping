@@ -14,13 +14,13 @@ Before running the script, ensure you have the following installed and configure
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/yourusername/puppeteer-web-scraping.git
+    git clone https://github.com/PrantaDas/puppetter-web-scrapping.git
     ```
 
 2. Navigate to the project directory:
 
     ```bash
-    cd puppeteer-web-scraping
+    cd puppetter-web-scrapping
     ```
 
 3. Install dependencies:
